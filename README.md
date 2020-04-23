@@ -1,2 +1,3 @@
 # foodfy
-desenvolvimento de clone de site de receitas
+desenvolvimento do site FoodFy, elaborado para desafio do curso Launchbase, da Rocketseat.
+
